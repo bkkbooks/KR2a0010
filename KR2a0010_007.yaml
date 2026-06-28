@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2a0010/krp/v1/juan/7
+seq: 7
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0010_WYG_007-1a, image: WYG0253/WYG0253-0781c.png}
+body:
+  text: 補後漢書年表卷七宋熊方撰異姓諸侯西漢自新室凡一時封拜前表多黜而不書東漢自建安已來政出曹氏一時爵命亦非孝獻今將棄而不書則操非居攝故與新室異若將書之而紀傳或有闕文故下考於三國志以尚假漢朝名器雖為異代之史庶得其實耳號諡姓名始封侯狀子孫曽孫五世補後漢書年表卷七
+  hash: sha256:ca285147a29ae706d4253b9229c8f6a3bb458be941ad27434b3209519e40e67e
+metadata:
+  title: 補後漢書年表
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:19:53.004510'
+  juan_title: 卷七
+  source:
+    repository: kanripo
+    path: KR2a0010/KR2a0010_007.txt
+hash: sha256:d4a0934b681cfb1c92be8d8bb0b1403395e73257a93b8cea900574bf2a843ccd

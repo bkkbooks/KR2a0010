@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2a0010/krp/v1/juan/4
+seq: 4
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0010_WYG_004-1a, image: WYG0253/WYG0253-0764c.png}
+body:
+  text: 補後漢書年表卷四宋熊方撰異姓諸侯右光武侯者一百有七人阿陵中水槐里昌城東光櫟陽雍奴洨安平隃麋牟平陽夏祁鄉廣平新蔡靈臺夀阜成鬲褒德西華吳房舞隂穀陽膠東祝阿安成建平參蘧合肥夜固始召陵陽安山桑慎昆陽陵陽武始不其則鄉全椒顯親陵鄉宣恩原鹿宣義征羌壽張射陽更父新郪發于關內二人凡五十有四人隨父濯陽築陽樂陵元鄉平望發干凡六人隨祖在本表平陽髙昌歸德二人凡四人見前書功臣侯表平昌周承休紅陽凡三人見前書恩澤侯表凡一百七十有四人補後漢書年表卷四
+  hash: sha256:bf58c2dfe0ab1ff9f6287df180fbc473bc88e193e6e312eebc3fc7df0abb226f
+metadata:
+  title: 補後漢書年表
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:19:53.004510'
+  juan_title: 卷四
+  source:
+    repository: kanripo
+    path: KR2a0010/KR2a0010_004.txt
+hash: sha256:e73314f3c9698729e79932c71f70280cbf28ac1a84eba2e140a9a1fac166c1cc

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2a0010/krp/v1/juan/1
+seq: 1
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0010_WYG_001-1a, image: WYG0253/WYG0253-0741c.png}
+body:
+  text: 補後漢書年表卷一宋熊方撰同姓王矦表光武初興因西都疏爵之制封建宗室故齊武魯哀汝陰輩以功安成居巢甘里輩以親皆能乘時蹈運分茅胙土以為藩翼增壯中興至明章之世乃有東平東海與沛獻等各能謙抑令終為一代賢王其蹈憲網者雖或有之然無吳楚七國之勢光武之慮逺矣作同姓王矦表右光武二十有八人襄邑穀孰夀光趙蔡陽髙鄉堂溪淄川安城白牛成武順陽黃李齊北海沛東武城十有七人隨父印曲陽齊下博臨邑縣二人鄉三人凡十人隨祖在本表安衆二人海昏一人見前書王子矦表凡五十有八人補後漢書年表卷一
+  hash: sha256:e1249cb073632f7133875ab46af9939c1312849b64ac2841f0bd87d6d05cd91c
+metadata:
+  title: 補後漢書年表
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:19:53.004510'
+  juan_title: 卷一
+  source:
+    repository: kanripo
+    path: KR2a0010/KR2a0010_001.txt
+hash: sha256:f99aba2d58ea3159c2152a0644c0b1fac8343f1041a89521d054376137cf7596

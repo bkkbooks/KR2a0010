@@ -1,0 +1,219 @@
+canonical_identifier: bkk:krp/KR2a0010/v1
+canonical_location: https://kanripo.org/bkk/KR2a0010/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 補後漢書年表
+  date: '2015-08-24 22:19:53.004510'
+  source:
+    repository: kanripo
+    path: KR2a0010
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2a0010_000.yaml, hash: 'sha256:3b42a40fed24c7dbb87f3cd5b37a6330ca5ed36762724f17330f6831ecea5a3f'}
+  - {seq: 1, filename: KR2a0010_001.yaml, hash: 'sha256:f99aba2d58ea3159c2152a0644c0b1fac8343f1041a89521d054376137cf7596'}
+  - {seq: 2, filename: KR2a0010_002.yaml, hash: 'sha256:28bef5e3d885d22101ae7adcfb6575530c40f400448fa40ddda300b27a3001da'}
+  - {seq: 3, filename: KR2a0010_003.yaml, hash: 'sha256:ccffc309d7bb1b51d6a6962f943b5f64eea8f666392d869576f73fd74129f812'}
+  - {seq: 4, filename: KR2a0010_004.yaml, hash: 'sha256:e73314f3c9698729e79932c71f70280cbf28ac1a84eba2e140a9a1fac166c1cc'}
+  - {seq: 5, filename: KR2a0010_005.yaml, hash: 'sha256:92771b2d3ba6d4ea7098a8719f07a41e667dc3143849f6de988c7d4d09005c6d'}
+  - {seq: 6, filename: KR2a0010_006.yaml, hash: 'sha256:4a86a4aa892cbd74e7a1409b6ce4397da032d91c622f2e60297047d59fae0f68'}
+  - {seq: 7, filename: KR2a0010_007.yaml, hash: 'sha256:d4a0934b681cfb1c92be8d8bb0b1403395e73257a93b8cea900574bf2a843ccd'}
+  - {seq: 8, filename: KR2a0010_008.yaml, hash: 'sha256:2d16b9529ddb964f5fdcde109ff5ce75253defc418547ddad8d854cee211132b'}
+  - {seq: 9, filename: KR2a0010_009.yaml, hash: 'sha256:c9d2bba8b44108f03371d684e5fa2c477c5378591e7ec10b08ed08ebced983c7'}
+  - {seq: 10, filename: KR2a0010_010.yaml, hash: 'sha256:9e34336e72501ff7ba59871d5145064d68ee0e7c7e86b4c838bb59daaf8940ab'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2a0010_000.markers.yaml, hash: 'sha256:efaa7a23654c5988d4715c456f224fafd294f419aa5b50605347742d5d96c4f4'}
+  - {seq: 1, role: markers, filename: assets/KR2a0010_001.markers.yaml, hash: 'sha256:f15dd5c6c86ac74d58ba746c576ef75ef27d6a4d8739c02cd7cabd8c24fc6dc3'}
+  - {seq: 2, role: markers, filename: assets/KR2a0010_002.markers.yaml, hash: 'sha256:0dc4709bc853e0c36a4f5b910375aea96dc0da7b67783f473ccd65d0f84e99f9'}
+  - {seq: 3, role: markers, filename: assets/KR2a0010_003.markers.yaml, hash: 'sha256:65750d7ce182b0c3fe59ed0aebddb94e1ddfc14689ca9c469afe0ca16d3abdfb'}
+  - {seq: 4, role: markers, filename: assets/KR2a0010_004.markers.yaml, hash: 'sha256:02c755b42a2cb76236ef61929fb602f01d7454cd4abbe39afb06728c6757a856'}
+  - {seq: 5, role: markers, filename: assets/KR2a0010_005.markers.yaml, hash: 'sha256:3498fb45416af9c101935aa915d8c4e2f28204382687435ae1cde87aa068bb25'}
+  - {seq: 6, role: markers, filename: assets/KR2a0010_006.markers.yaml, hash: 'sha256:5ae79ad56500e2a6726dcefeaa31ec647caae3118da698ed22a7214da0f30567'}
+  - {seq: 7, role: markers, filename: assets/KR2a0010_007.markers.yaml, hash: 'sha256:3be3f253b0f4945833dc21a607b8e382735cb8e3c2df1bdc894d5a14ec8bc828'}
+  - {seq: 8, role: markers, filename: assets/KR2a0010_008.markers.yaml, hash: 'sha256:14d03c17d810a18f8a3e23ebfff293c6d4eaf1222a714d8b164924219a19d970'}
+  - {seq: 9, role: markers, filename: assets/KR2a0010_009.markers.yaml, hash: 'sha256:e075547761b57f3f6729c5fa319711914f91ffed8755a47e3a2c6c5d645ed077'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2a0010_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 855
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2a0010_WYG_000-5a
+    span:
+    - body
+    - 855
+    - 1084
+  label: 進補後漢書年表序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2a0010_WYG_000-6a
+    span:
+    - body
+    - 1084
+    - 1570
+  label: 進補後漢書年表表
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2a0010_WYG_000-8a
+    span:
+    - body
+    - 1570
+    - 2297
+  label: 狀
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2a0010_WYG_000-11a
+    span:
+    - body
+    - 2297
+    - 2379
+  label: 目錄
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2a0010_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 221
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2a0010_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 811
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2a0010_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 136
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2a0010_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 210
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2a0010_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 440
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2a0010_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 171
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR2a0010_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 126
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR2a0010_WYG_008-1a
+    span:
+    - body
+    - 0
+    - 335
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2a0010_WYG_009-1a
+    span:
+    - body
+    - 0
+    - 97
+  label: 卷九上
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR2a0010_WYG_009-16a
+    span:
+    - body
+    - 97
+    - 127
+  label: 卷九下
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2a0010_WYG_010-1a
+    span:
+    - body
+    - 0
+    - 24
+  label: 卷十上
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR2a0010_WYG_010-18a
+    span:
+    - body
+    - 24
+    - 54
+  label: 卷十下
+  type: section
+  level: 1
+hash: sha256:e82884946d0aed8d67db1f86781a06b451f429fe3e2d51bbfcfd5849466a6d3d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

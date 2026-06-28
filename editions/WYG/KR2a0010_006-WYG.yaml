@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0010/WYG/v1/juan/6
+seq: 6
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0010_WYG_006-1a, image: WYG0253/WYG0253-0776a.png}
+body:
+  text: 補後漢書年表卷六宋熊方撰異姓諸侯號謚姓名始封侯狀子孫曾孫五世右孝桓侯者二十有七人門徳亭南鄉安陽南頓泚陽昆陽育陽安陽益陽亭襄邑城父潁陽潁隂西平凡十有四人隨祖見光武異姓侯表關内侯人隨祖見孝和異姓侯表廚亭費亭宣父凡三人隨父在本表凡四十有五人右孝靈侯者四十人渭陽一人隨父見孝桓異姓侯表育陽安陽華容慎順陽蔡陽凡六人隨父見本表凡四十有七人補後漢書年表卷六
+  hash: sha256:71aacb7b0c537beb1077b47dabd0b786b14ed1f0613659585d13585e128cf805
+metadata:
+  title: 補後漢書年表
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:19:53.004510'
+  source:
+    repository: kanripo
+    path: KR2a0010/KR2a0010_006.txt
+hash: sha256:58d18c1c70821b416ae2a789c3d976e98d521424222e430586fee93450f70c76

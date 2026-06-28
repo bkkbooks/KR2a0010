@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR2a0010/krp/v1/juan/10
+seq: 10
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0010_WYG_010-1a, image: WYG0253/WYG0253-0805a.png}
+body:
+  text: 補後漢書年表卷十上宋熊方撰百官補後漢書年表卷十上欽定四庫全書補後漢書年表卷十下宋熊方撰百官補後漢書年表卷十下
+  hash: sha256:62bb5bd15ae2248b398b3a1b14b91db42ac69694bae53080982ebb294e4395b1
+  markers:
+  - {type: page-break, offset: 24, content: '', id: KR2a0010_WYG_010-18a, image: WYG0253/WYG0253-0814a.png}
+metadata:
+  title: 補後漢書年表
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:19:53.004510'
+  juan_title: 卷十上
+  source:
+    repository: kanripo
+    path: KR2a0010/KR2a0010_010.txt
+hash: sha256:9e34336e72501ff7ba59871d5145064d68ee0e7c7e86b4c838bb59daaf8940ab
