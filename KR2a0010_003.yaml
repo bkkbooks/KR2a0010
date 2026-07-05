@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2a0010_WYG_003-1a, image: WYG0253/WYG0253-0757a.png}
 body:
-  text: 補後漢書年表卷三宋熊方撰異姓諸矦世祖倉卒擾攘之初亟侯諸將矣蓋激礪磨淬亦事之常至起卓茂伏湛為三公剖符而封之功臣不假以權革西京之弊天下靡然以名節相先及叔季李膺范滂輩雖相枕就死而不悔曹操豺虎之姿猶懼孔融荀彧等終其身不敢為盜德義之足以服人心也如此可不尚兹作異姓矦表補後漢書年表卷三
-  hash: sha256:0421af64543d9c1c508f348fe88ae80b3275924b942649c76471916430bbd87b
+  text: 補後漢書年表卷三宋熊方撰異姓諸矦世祖倉卒擾攘之初亟侯諸將矣盖激礪磨淬亦事之常至起卓茂伏湛為三公剖符而封之功臣不假以權革西京之弊天下靡然以名節相先及叔季李膺范滂軰雖相枕就死而不悔曹操豺虎之姿猶懼孔融荀彧等終其身不敢為盜徳義之足以服人心也如此可不尚兹作異姓矦表補後漢書年表卷三
+  hash: sha256:bcf98bf8cfdfec56753da12d29cffa2b4ad0f670087d3f477254b835b6822376
 metadata:
   title: 補後漢書年表
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2a0010/KR2a0010_003.txt
-hash: sha256:ccffc309d7bb1b51d6a6962f943b5f64eea8f666392d869576f73fd74129f812
+hash: sha256:3557d020b4b5840bc0c3c411d2e390416bd9152bb5253d10d839796c0afba111
