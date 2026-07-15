@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2a0010_WYG_007-1a, image: WYG0253/WYG0253-0781c.png}
 body:
-  text: 補後漢書年表卷七宋熊方撰異姓諸侯西漢自新室凡一時封拜前表多黜而不書東漢自建安已來政出曹氏一時爵命亦非孝獻今將棄而不書則操非居攝故與新室異若將書之而紀傳或有闕文故下考於三國志以尚假漢朝名器雖為異代之史庶得其實耳號謚姓名始封侯狀子孫曽孫五世補後漢書年表卷七
-  hash: sha256:7cef99faac127d533a3a7dac91ca738f7f65f4026ed8af483f826e47b7a4a759
+  text: 補後漢書年表卷七宋熊方撰異姓諸侯西漢自新室凡一時封拜前表多黜而不書東漢自建安已來政出曹氏一時爵命亦非孝獻今將棄而不書則操非居攝故與新室異若將書之而紀傳或有闕文故下考於三國志以尚假漢朝名器雖為異代之史庶得其實耳號諡姓名始封侯狀子孫曽孫五世補後漢書年表卷七
+  hash: sha256:ca285147a29ae706d4253b9229c8f6a3bb458be941ad27434b3209519e40e67e
 metadata:
   title: 補後漢書年表
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2a0010/KR2a0010_007.txt
-hash: sha256:20a4309a7f8b654f6b4fd01191350b9511906ef5dc6eecc372c785eaa26a1519
+hash: sha256:d4a0934b681cfb1c92be8d8bb0b1403395e73257a93b8cea900574bf2a843ccd

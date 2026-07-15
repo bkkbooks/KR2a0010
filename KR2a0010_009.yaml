@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2a0010_WYG_009-1a, image: WYG0253/WYG0253-0791a.png}
 body:
-  text: 補後漢書年表卷九上宋熊方撰百官两漢官制雖相因襲然輕重廢置不一班史各以所屬約為十四等表之今取劉昭之志自太傅至河南尹凡二十有三以繫於年而除拜薨免之實見矣其郡縣蕃夷之官不與焉作百官表補後漢書年表卷九上欽定四庫全書補後漢書年表卷九下宋熊方撰百官補後漢書年表卷九下
-  hash: sha256:a1b0f786d33995a46c6d3c6b879b23bdb87e9127562114ecfa1fe439a2e4415f
+  text: 補後漢書年表卷九上宋熊方撰百官兩漢官制雖相因襲然輕重廢置不一班史各以所屬約為十四等表之今取劉昭之志自太傅至河南尹凡二十有三以繫於年而除拜薨免之實見矣其郡縣蕃夷之官不與焉作百官表補後漢書年表卷九上欽定四庫全書補後漢書年表卷九下宋熊方撰百官補後漢書年表卷九下
+  hash: sha256:0f6af116e5e12373690a277afa3ab79c030326d3cf9ecd6f1ac605d2805a1a55
   markers:
   - {type: page-break, offset: 97, content: '', id: KR2a0010_WYG_009-16a, image: WYG0253/WYG0253-0799a.png}
 metadata:
@@ -20,4 +20,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2a0010/KR2a0010_009.txt
-hash: sha256:0efc197f8db53b7cb86cb9ec93481dd61905a7a663704b9600e4af121b0866e9
+hash: sha256:c9d2bba8b44108f03371d684e5fa2c477c5378591e7ec10b08ed08ebced983c7
